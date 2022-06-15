@@ -1,0 +1,15 @@
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.csproj.AssemblyReference.cache
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.AssemblyInfoInputs.cache
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.AssemblyInfo.cs
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.csproj.CoreCompileInputs.cache
+C:\kurs\QuizApp\QuizApp.App\bin\Debug\net6.0\QuizApp.App.deps.json
+C:\kurs\QuizApp\QuizApp.App\bin\Debug\net6.0\QuizApp.App.dll
+C:\kurs\QuizApp\QuizApp.App\bin\Debug\net6.0\QuizApp.App.pdb
+C:\kurs\QuizApp\QuizApp.App\bin\Debug\net6.0\QuizApp.Domain.dll
+C:\kurs\QuizApp\QuizApp.App\bin\Debug\net6.0\QuizApp.Domain.pdb
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.csproj.CopyComplete
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.dll
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\refint\QuizApp.App.dll
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\QuizApp.App.pdb
+C:\kurs\QuizApp\QuizApp.App\obj\Debug\net6.0\ref\QuizApp.App.dll
